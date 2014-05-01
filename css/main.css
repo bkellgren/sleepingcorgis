@@ -19,7 +19,7 @@ textarea {
 }
 
 html {
-  background: url(../img/gosling-bkrnd.jpg) no-repeat center center fixed; 
+  background: url(../img/sleepy.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -147,7 +147,7 @@ a:hover {
     display: block;
 }
 
-#button { 
+#button {
     background-color: rgba(174,1,126, .8);
     border: none;
     font-family: 'Gotham Medium', sans-serif;
