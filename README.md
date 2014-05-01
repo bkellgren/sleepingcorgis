@@ -3,16 +3,16 @@ Welcome!
 
 ###About
 Sick of your Facebook friends? News getting you down?
-Hey Girl is a bookmarklet that changes every image on a webpage to one of Ryan Gosling. 
+Sleeping Corgies is a bookmarklet that changes every image on a webpage to one of Sleeping Corgies.
 
 ###How To Install
-* Select all of the code from [the bookmarklet file](https://github.com/keccers/heygirl/blob/master/bookmarklet.js) and drag it/copy it to your bookmarks bar. 
+* Select all of the code from [the bookmarklet file](http://bkellgren.github.io/sleepingcorgies/bookmarklet.js) and drag it/copy it to your bookmarks bar.
 
-* Install the Chrome Extension by [visiting the Google Play store](https://chrome.google.com/webstore/detail/hey-girl-hey/jcpmmhaffdebnmkjelaohgjmndeongip?hl=en). 
+* Install the Chrome Extension by [visiting the Google Play store](https://chrome.google.com/webstore/detail/sleeping-corgies/aeoigchbenpdnffkojonledmhhdkpfjh?hl=en).
 
 ###How To Use
-* Click the bookmarklet on any page that needs a little HEY GIRL!
+* Click the bookmarklet on any page that needs some SLEEPING CORGIES!
 
 
 
-*Made with ❤ by KCHAMP!*  
+*Thanks ❤ by KCHAMP!*
