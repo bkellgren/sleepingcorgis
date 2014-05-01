@@ -141,6 +141,7 @@ a:hover {
     min-height: 100%;
     width: 55%;
     background: rgba(255,255,255,.65);
+    position: relative;
 }
 
 .content:after {
