@@ -2,7 +2,7 @@
   "name": "Hey Girl",
   "version": "2.1",
   "homepage_url": "http://heygirl.io",
-  "description": "Replaces all images on a given page with pictures of Ryan Gosling. HEY GIRL!",
+  "description": "Replaces all images on a given page with pictures of SleepingCorgies. HEY GIRL!",
   "icons": { "16"  : "img/icon_16.png",
              "48"  : "img/icon_48.png",
              "128" : "img/icon_128.png"},
