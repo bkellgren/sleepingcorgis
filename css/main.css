@@ -113,7 +113,7 @@ h1 {
     font-size: 7em;
     font-weight: normal;
     margin: 0;
-    padding: 22% 0 0 0;
+    padding: 15% 0 0 0;
     text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
 }
 
@@ -128,7 +128,7 @@ h2 {
 
 a {
     color: #49311c;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a:hover {
