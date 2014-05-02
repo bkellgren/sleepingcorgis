@@ -151,7 +151,7 @@ a:hover {
 }
 
 #button {
-    background-color: rgba(174,1,126, .8);
+    background-color: rgba(73,49,28,.8);
     border: none;
     font-family: 'Gotham Medium', sans-serif;
     font-size: 2em;
@@ -164,7 +164,8 @@ a:hover {
 }
 
 #button a {
-    color: #69043F;
+    color: #fff;
+    text-decoration: none;
 }
 
 #button a:hover {
