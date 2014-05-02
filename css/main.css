@@ -169,8 +169,7 @@ a:hover {
 }
 
 #button a:hover {
-    color: #4A032C;
-    text-decoration: none;
+    opacity: .9;
 }
 
 #facebook-iframe {
