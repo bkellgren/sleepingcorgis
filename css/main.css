@@ -172,6 +172,12 @@ a:hover {
     text-decoration: none;
 }
 
+#facebook-iframe {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
 footer, .content:after {
     height: 60px;
 }
