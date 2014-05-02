@@ -1,6 +1,6 @@
 {
   "name": "Sleeping Corgis",
-  "version": "1.4",
+  "version": "1.7",
   "homepage_url": "http://bkellgren.github.io/sleepingcorgis/",
   "description": "Replaces all images on a given page with pictures of Sleeping Corgis!!",
   "icons": { "16"  : "img/icon_16.png",
@@ -14,7 +14,7 @@
     "activeTab"
   ],
   "background": {
-    "scripts": ["background.js", "sleepingcorgis.js"],
+    "scripts": ["background.js", "sleepingcorgies.js"],
     "persistent": false
   },
   "manifest_version": 2
