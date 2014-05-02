@@ -3,7 +3,7 @@ Welcome!
 
 ###About
 Sick of your Facebook friends? News getting you down?
-Sleeping Corgies is a bookmarklet that changes every image on a webpage to one of Sleeping Corgies.
+Sleeping Corgis is a bookmarklet that changes every image on a webpage to one of Sleeping Corgis.
 
 ###How To Install
 * Select all of the code from [the bookmarklet file](http://bkellgren.github.io/sleepingcorgies/bookmarklet.js) and drag it/copy it to your bookmarks bar.
