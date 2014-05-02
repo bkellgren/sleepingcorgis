@@ -139,6 +139,7 @@ a:hover {
     margin-bottom: -60px;
     margin-left: 1.75%;
     min-height: 100%;
+    padding: 0 20px;
     width: 55%;
     background: rgba(255,255,255,.7);
     position: relative;
@@ -177,7 +178,7 @@ footer, .content:after {
 
 footer {
     font-size: .75em;
-    margin: 0 40px;
+    margin: 0 20px;
     width: 100%;
     position: absolute;
     bottom: 0;
