@@ -163,14 +163,16 @@ a:hover {
     width: 200px;
 }
 
+#button:hover {
+    opacity: .9;
+}
+
 #button a {
     color: #fff;
     text-decoration: none;
 }
 
-#button a:hover {
-    opacity: .9;
-}
+
 
 #facebook-iframe {
     position: absolute;
