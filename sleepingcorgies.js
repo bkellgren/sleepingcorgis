@@ -47,7 +47,6 @@ var mySleepingCorgis = [
   new SleepingCorgis("vertical", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-vert-4.jpg"),
   new SleepingCorgis("vertical", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-vert-5.jpg"),
   new SleepingCorgis("vertical", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-vert-6.jpg"),
-  new SleepingCorgis("vertical", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-vert-8.jpg"),
   new SleepingCorgis("square", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-square-1.jpg"),
   new SleepingCorgis("square", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-square-2.jpg"),
   new SleepingCorgis("square", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-square-3.jpg"),
