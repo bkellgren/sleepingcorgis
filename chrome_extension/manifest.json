@@ -1,6 +1,6 @@
 {
   "name": "Sleeping Corgis",
-  "version": "1.3",
+  "version": "1.4",
   "homepage_url": "http://bkellgren.github.io/sleepingcorgis/",
   "description": "Replaces all images on a given page with pictures of Sleeping Corgis!!",
   "icons": { "16"  : "img/icon_16.png",
