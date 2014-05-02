@@ -41,18 +41,31 @@ var mySleepingCorgis = [
   new SleepingCorgis("horizontal", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-horiz-7.jpg"),
   new SleepingCorgis("horizontal", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-horiz-8.jpg"),
   new SleepingCorgis("horizontal", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-horiz-9.jpg"),
+  new SleepingCorgis("horizontal", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-horiz-10.jpg"),
+  new SleepingCorgis("horizontal", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-horiz-11.jpg"),
+  new SleepingCorgis("horizontal", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-horiz-12.jpg"),
+  new SleepingCorgis("horizontal", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-horiz-13.jpg"),
+  new SleepingCorgis("horizontal", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-horiz-14.jpg"),
+  new SleepingCorgis("horizontal", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-horiz-15.jpg"),
   new SleepingCorgis("vertical", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-vert-1.jpg"),
   new SleepingCorgis("vertical", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-vert-2.jpg"),
   new SleepingCorgis("vertical", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-vert-3.jpg"),
   new SleepingCorgis("vertical", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-vert-4.jpg"),
   new SleepingCorgis("vertical", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-vert-5.jpg"),
   new SleepingCorgis("vertical", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-vert-6.jpg"),
+  new SleepingCorgis("vertical", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-vert-7.jpg"),
+  new SleepingCorgis("vertical", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-vert-8.jpg"),
   new SleepingCorgis("square", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-square-1.jpg"),
   new SleepingCorgis("square", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-square-2.jpg"),
   new SleepingCorgis("square", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-square-3.jpg"),
   new SleepingCorgis("square", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-square-4.jpg"),
   new SleepingCorgis("square", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-square-5.jpg"),
-  new SleepingCorgis("square", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-square-6.jpg")
+  new SleepingCorgis("square", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-square-6.jpg"),
+  new SleepingCorgis("square", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-square-7.jpg"),
+  new SleepingCorgis("square", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-square-8.jpg"),
+  new SleepingCorgis("square", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-square-9.jpg"),
+  new SleepingCorgis("square", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-square-10.jpg"),
+  new SleepingCorgis("square", "http://bkellgren.github.io/sleepingcorgis/the_sleeping_corgies/corgie-square-11.jpg")
 ]
 
 function imageRatio(image) {
