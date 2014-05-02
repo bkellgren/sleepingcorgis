@@ -11,7 +11,7 @@ Sleeping Corgis is a bookmarklet that changes every image on a webpage to one of
 * Install the Chrome Extension by [visiting the Google Play store](https://chrome.google.com/webstore/detail/sleeping-corgies/aeoigchbenpdnffkojonledmhhdkpfjh).
 
 ###How To Use
-* Click the bookmarklet on any page that needs some SLEEPING CORGIES!
+* Click the bookmarklet on any page that needs some SLEEPING CORGIS!
 
 
 
