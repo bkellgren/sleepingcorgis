@@ -108,7 +108,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
 h1 {
-    color: rgba(142, 34, 97, 1);
+    color: blue;
     font-family: 'Gotham Medium', sans-serif;
     font-size: 7em;
     font-weight: normal;
@@ -127,7 +127,7 @@ h2 {
 }
 
 a {
-    color: #7a0177;
+    color: blue;
     text-decoration: none;
 }
 
